@@ -1,5 +1,4 @@
 # Wordpress plugin for storing locations and displaying them on a map with the google maps api
-[Demo](https://concert_tracker.zachtheprogrammer.com/)
 
 # WP-Admin Features
 - Settings page for storing your google api key
